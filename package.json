@@ -9,8 +9,7 @@
     "restart": "pm2 restart nadeen-md"
  },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",
-    "mrnima-baileys": "6.8.9",
+    "@whiskeysockets/baileys": "npm:mrnima-baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
